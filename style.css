@@ -1,0 +1,65 @@
+h1{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+p{
+    color: #c5a1c1;
+    text-align: center;
+    font-size: larger;
+}
+ul{
+    text-align: center;
+    background-color: rgb(211, 202, 127);
+    color: rgb(1, 1, 2);
+}
+h2{
+    background-color: rgba(0, 255, 255, 0.58);
+    color: black;
+    text-align: center;
+}
+h3{
+    background-color: rgb(103, 192, 192);
+    color: black;
+    text-align: center;
+}
+
+
+
+.frist-h1-style{
+background-color: black;
+color: white;
+font-size: larger;
+font-family: 'Courier New', Courier, monospace;
+margin: 3%;
+}
+.frist-p-style{
+background-color: rgb(84, 84, 145);
+color: azure;
+font-family: 'Courier New', Courier, monospace;
+margin: 3%;
+}
+.frist-ul-style{
+background-color: blueviolet;
+color: aliceblue;
+font-family: 'Courier New', Courier, monospace;
+margin: 3%;
+}
+.sec-h2-style{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 3%;
+}
+.therd-h3-style{
+    background-color: black;
+    color: white;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 3%;
+}
+.frist-pa-style{
+    background-color: darkgray;
+    margin: 3%;
+}
